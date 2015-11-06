@@ -2,6 +2,8 @@
 Created on Nov 6, 2015
 
 @author: clayt
+
+PhoneMessageGenerator solves problem 7-17 on page 271
 '''
 
 class StandardPhonePad():
